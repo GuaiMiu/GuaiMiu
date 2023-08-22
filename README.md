@@ -1,17 +1,16 @@
-### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/GuaiMiu/count.svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuaiMiu&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/GuaiMiu)
-<!--
-**GuaiMiu/GuaiMiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋,I'm GuaiMiu.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to JavaScript/Python(Of course, I may not necessarily).
+- 📫 How to reach me: h@ozxc.cn
+- 😄 Read more about my Blog: [here](https://ozxc.cn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=GuaiMiu&show_icons=true&theme=transparent)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/GuaiMiu/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+### My Skill Set
+
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
